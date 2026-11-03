@@ -2,10 +2,10 @@
 ## This Repository Has A Lot Of Chapters You Learning Such As :
 ## I - Basic Teckniques
 1. Introduction
-  1. Input And Output
-  2. Working With Numbers
-  3. Shortenning Code
-  4. Mathematics
+  - Input And Output
+  - Working With Numbers
+  - Shortenning Code
+  - Mathematics
 2. Time Complexity
 3. Sorting Algorithms
 4. Data Structures
