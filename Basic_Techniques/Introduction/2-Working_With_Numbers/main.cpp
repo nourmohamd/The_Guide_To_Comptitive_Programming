@@ -24,7 +24,6 @@ int main() {
 	- (a+b)mode m = (a mode m + b mode m)mode m
 	- (a-b)mode m = (a mode m - b mode m)mode m
 	- (a*b)mode m = (a mode m * b mode m)mode m
-	- (a/b)mode m = (a mode m / b mode m)mode m
 	*/
 	
 	// Example : Factorial n!mode m
