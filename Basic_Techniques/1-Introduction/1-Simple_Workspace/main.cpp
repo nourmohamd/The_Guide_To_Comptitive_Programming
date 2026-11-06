@@ -5,9 +5,9 @@ using namespace std;
 
 
 int main() {
-	ios::sync_with_stdio(0);// For Faster Operations
-	cin.tie(0);// Faster Input
-	cout.tie(0);// Faster Output
+	ios::sync_with_stdio(0);// 0|NULL For Faster Operations
+	cin.tie(0);// 0|NULL Faster Input
+	cout.tie(0);// 0|NULL Faster Output
 	
 	
 	
