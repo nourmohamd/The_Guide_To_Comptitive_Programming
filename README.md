@@ -4,7 +4,7 @@
 1. Introduction
   - Input And Output
   - Working With Numbers
-  - Shortenning Code
+  - Shortening Code
   - Mathematics
 2. Time Complexity
 3. Sorting Algorithms
