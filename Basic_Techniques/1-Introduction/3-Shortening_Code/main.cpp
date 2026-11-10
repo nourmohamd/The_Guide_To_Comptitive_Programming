@@ -62,7 +62,7 @@ int main() {
 	
 	// Square Examples: By Priorities The Circle Brakits is better prioritie From Multiplication
 	cout<<"Result Of SQ1 = "<<SQ1(2+2)<<endl;// Result Of SQ1 = 16 Because (2+2)*(2+2) = 16
-	cout<<"Result Of SQ2 = "<<SQ2(2+2)<<endl;// Result Of SQ1 = 8 Because 2+2*2+2 = 8
+	cout<<"Result Of SQ2 = "<<SQ2(2+2)<<endl;// Result Of SQ2 = 8 Because 2+2*2+2 = 8
 	
 	//	End Shortening Code...
 	
