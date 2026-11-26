@@ -13,6 +13,7 @@
 | Introduction | 005                              |      Set Theory      |
 | Introduction | 006                              |  Logic Gates World   |
 | Introduction | 007                              |      Functions       |
+| Introduction | 008                              |      Logarithms      |
 
 ---
 
