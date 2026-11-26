@@ -17,7 +17,10 @@
 
 ---
 
-2. Time Complexity
+| Chapter Name    | Number Of Lesson In This Chapter |    Lesson Name    |
+| :-------------- | :------------------------------- | :---------------: |
+| Time Complexity | 001                              | Calculation Rules |
+
 3. Sorting Algorithms
 4. Data Structures
 5. Complete Search
